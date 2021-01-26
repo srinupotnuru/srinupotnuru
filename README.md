@@ -1,3 +1,5 @@
+# Srinu Potnuru&nbsp;<img src="https://github.com/srinupotnuru/srinupotnuru/blob/main/assets/37879-programmer.gif" width="30px">
+
 ### Heyya People 👋
 <p>
   <em>
