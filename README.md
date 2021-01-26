@@ -11,8 +11,7 @@
   </em>  
 </p>
 
-[![Badge](https://cp-logo.vercel.app/codechef/srinupotnuru)](https://www.codechef.com/users/srinupotnuru)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srinupotnuru)](https://github.com/anuraghazra/github-readme-stats)
+![Srinu's github stats](https://github-readme-stats.vercel.app/api?username=srinupotnuru&show_icons=true&theme=radical)
 <!--
 **srinupotnuru/srinupotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
