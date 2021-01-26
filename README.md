@@ -2,7 +2,7 @@
 <p>
   <em>
     I am Srinu Potnuru a third year student from <a href="http://www.vignaniit.edu.in/"> <b>Vignan's Institute of Information Technology</b>, Visakhapatnam</a>.  
-    A spry <b>Competitive Programmer and Web Developer</b> <img src="https://external-preview.redd.it/TcGeAvy5O6vFTDVTwbwhdp1cqJo6ZevklwAQFMqVCe0.gif?format=mp4&s=f9ea7598376352871dde7fd369b4061917e3f5c4" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A spry <b>Competitive Programmer and Web Developer</b> <img src="https://media1.tenor.com/images/a65134d2c920a7d10312416c12ee1234/tenor.gif?itemid=7431307" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
