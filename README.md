@@ -1,5 +1,5 @@
 ### Heyya People 👋
-[![Github Badge]
+[![Github Badge](https://img.shields.io/badge/Sudeepa_noble-blue?style=social&logo=Github&link=https://github.com/SudeepaNoble)](https://github.com/SudeepaNoble)
 <!--
 **srinupotnuru/srinupotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
