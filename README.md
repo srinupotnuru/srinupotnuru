@@ -1,5 +1,5 @@
 ### Heyya People 👋
-[![Badge](https://cp-logo.vercel.app/codechef/srinupotnuru)]
+![Badge](https://cp-logo.vercel.app/codechef/srinupotnuru)
 <!--
 **srinupotnuru/srinupotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
