@@ -8,6 +8,7 @@
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
+
 [![Badge](https://cp-logo.vercel.app/codechef/srinupotnuru)](https://www.codechef.com/users/srinupotnuru)
 <!--
 **srinupotnuru/srinupotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
