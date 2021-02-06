@@ -11,7 +11,7 @@
   </em>  
 </p>
 
-![Srinu's github stats](https://github-readme-stats.vercel.app/api?username=srinupotnuru&show_icons=true&theme=radical)
+![Srinu's github stats](https://github-readme-stats.vercel.app/api?username=srinupotnuru&show_icons=true&theme=radical&include_all_commits=true)
 <!--
 **srinupotnuru/srinupotnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
